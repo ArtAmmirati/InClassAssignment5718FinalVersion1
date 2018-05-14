@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\bin\Debug\tutorial 8-2 Telephone Format.exe.config
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\bin\Debug\tutorial 8-2 Telephone Format.exe
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\bin\Debug\tutorial 8-2 Telephone Format.pdb
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\obj\Debug\tutorial 8-2 Telephone Format.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\obj\Debug\tutorial_8_2_Telephone_Format.Form1.resources
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\obj\Debug\tutorial_8_2_Telephone_Format.Properties.Resources.resources
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\obj\Debug\tutorial 8-2 Telephone Format.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\obj\Debug\tutorial 8-2 Telephone Format.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\obj\Debug\tutorial 8-2 Telephone Format.exe
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\tutorial 8-2 Telephone Format\obj\Debug\tutorial 8-2 Telephone Format.pdb

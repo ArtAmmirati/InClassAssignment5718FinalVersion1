@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\obj\Debug\Tutorial 8-4 CSV Reader.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\obj\Debug\Tutorial_8_4_CSV_Reader.Form1.resources
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\obj\Debug\Tutorial_8_4_CSV_Reader.Properties.Resources.resources
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\obj\Debug\Tutorial 8-4 CSV Reader.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\obj\Debug\Tutorial 8-4 CSV Reader.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\bin\Debug\Tutorial 8-4 CSV Reader.exe.config
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\bin\Debug\Tutorial 8-4 CSV Reader.exe
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\bin\Debug\Tutorial 8-4 CSV Reader.pdb
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\obj\Debug\Tutorial 8-4 CSV Reader.exe
+C:\Users\Cyberadmin\source\repos\InClassProject05072018 Chapter 8\Tutorial 8-4 CSV Reader\obj\Debug\Tutorial 8-4 CSV Reader.pdb

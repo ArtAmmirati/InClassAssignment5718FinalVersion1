@@ -1,0 +1,9 @@
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\bin\Debug\Color Spectrum.exe
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\bin\Debug\Color Spectrum.pdb
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\obj\x86\Debug\Color_Spectrum.Form1.resources
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\obj\x86\Debug\Color_Spectrum.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.exe
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap08\Color Spectrum\Color Spectrum\obj\x86\Debug\Color Spectrum.pdb
